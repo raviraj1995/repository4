@@ -2,3 +2,6 @@ Recursion problems
 1] print sum of first n natural numbers .
 2] print factorial of n numbers.
 3] print sum of digits
+4] print fabonacci series
+5] print multipliaction
+6] reverse string
