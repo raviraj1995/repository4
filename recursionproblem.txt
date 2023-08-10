@@ -3,3 +3,4 @@ Recursion problems
 2] print factorial of n numbers.
 3] print sum of digits
 4] print fabonacci series
+5] print multipliaction
