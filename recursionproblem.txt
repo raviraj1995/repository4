@@ -4,3 +4,4 @@ Recursion problems
 3] print sum of digits
 4] print fabonacci series
 5] print multipliaction
+6] reverse string
